@@ -1,6 +1,6 @@
 {
   "name": "datatables.net-editor-bs",
-  "version": "1.6.3",
+  "version": "1.6.5",
   "description": "DataTables Editor - Bootstrap integration",
   "main": "js/editor.bootstrap.js",
   "scripts": {
